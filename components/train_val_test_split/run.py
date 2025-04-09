@@ -60,11 +60,11 @@ if __name__ == "__main__":
     )
 
     parser.add_argument(
-        "--random_seed", type=int, help="Seed for random number generator", default=42, required=False
+        "random_seed", type=int, help="Seed for random number generator", default=42, required=False
     )
 
     parser.add_argument(
-        "--stratify_by", type=str, help="Column to use for stratification", default='none', required=False
+        "stratify_by", type=str, help="Column to use for stratification", default='none', required=False
     )
 
     args = parser.parse_args()
