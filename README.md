@@ -15,6 +15,7 @@ In this project you will build such a pipeline.
   * [The configuration](#the-configuration)
   * [Running the entire pipeline or just a selection of steps](#Running-the-entire-pipeline-or-just-a-selection-of-steps)
   * [Pre-existing components](#pre-existing-components)
+- [Chris Teal's W&B Link](#W&B)
 
 ## Preliminary steps
 
@@ -179,3 +180,6 @@ Please, make sure all steps are using **the same** python version and that you h
 ## License
 
 [License](LICENSE.txt)
+
+## Chris Teal's W&B Link
+https://wandb.ai/wunone-western-governors-university/nyc_airbnb?nw=nwuserwunone
